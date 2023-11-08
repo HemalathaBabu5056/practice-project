@@ -19,7 +19,6 @@ body {
   width: 210mm;
   height: 95px;
   margin-top: 10px;
-   border: 2px solid black;
   margin-bottom: 3px;
   font-size: 35px;
   font-style: bold;
@@ -30,7 +29,7 @@ body {
 .leftside {
   width: 82mm;
   height: 240mm;
-   border: 2px solid black;
+
   float: left;
 }
 .leftside p {
@@ -44,7 +43,7 @@ body {
   width: 125mm;
   height: 240mm;
   float: right;
-   border: 2px solid black;
+   
   margin-bottom: 2px;
 }
 .rightside p {
@@ -58,7 +57,7 @@ body {
   width: 210mm;
   height: 80px;
   clear: both;
-  border: 2px solid black;
+
   margin-top: 70px;
 }
 .declaration p {
