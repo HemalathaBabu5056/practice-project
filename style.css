@@ -1,0 +1,69 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18.5px;
+}
+
+body {
+  background-color: black;
+  margin: 0;
+  padding: 0;
+}
+.sheet {
+  width: 210mm;
+  height: 297mm;
+  background-color: #fff;
+  margin: 0px auto;
+  padding: 50px;
+}
+.namebar {
+  width: 210mm;
+  height: 95px;
+  margin-top: 10px;
+   border: 2px solid black;
+  margin-bottom: 3px;
+  font-size: 35px;
+  font-style: bold;
+}
+.namebar p {
+  font-size: 17px;
+}
+.leftside {
+  width: 82mm;
+  height: 240mm;
+   border: 2px solid black;
+  float: left;
+}
+.leftside p {
+  width: 80px;
+  border: 2px solid;
+  margin-top: 0px;
+  background-color: rgb(133, 74, 15);
+  color: #fff;
+}
+.rightside {
+  width: 125mm;
+  height: 240mm;
+  float: right;
+   border: 2px solid black;
+  margin-bottom: 2px;
+}
+.rightside p {
+  width: 80px;
+  border: 2px solid;
+  margin: 0px;
+  background-color: rgb(133, 74, 15);
+  color: #fff;
+}
+.declaration {
+  width: 210mm;
+  height: 80px;
+  clear: both;
+  border: 2px solid black;
+  margin-top: 70px;
+}
+.declaration p {
+  width: 100px;
+  background-color: rgb(133, 74, 15);
+  color: #fff;
+  margin-top: 0;
+}
